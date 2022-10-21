@@ -1,0 +1,1 @@
+# Interface-QR-code-component
