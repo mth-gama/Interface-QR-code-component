@@ -18,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://mth-gama.github.io/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mth-gama)
-- GitHub - [@yourusername](https://github.com/mth-gama)
+- Website - [Matheus Gama](https://mth-gama.github.io/)
+- Frontend Mentor - [@mth-gama](https://www.frontendmentor.io/profile/mth-gama)
+- GitHub - [@mth-gama](https://github.com/mth-gama)
 
 ## Acknowledgments
 
